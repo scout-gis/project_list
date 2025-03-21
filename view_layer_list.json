@@ -179,10 +179,10 @@
     "pjm_il_2024_s_04_bitner": [
         "a00Uh00000E8asmIAB"
     ],
-    "pjm_in_2024_s_01_state_line": [
+    "pjm_2024_s_01_state_line": [
         "a00Uh00000EEj5HIAT"
     ],
-    "pjm_in_2024_s_02_old_halfway": [
+    "pjm_2024_s_02_old_halfway": [
         "a00Uh00000EEdZLIA1"
     ],
     "pjm_in_2024_s_03_riddles_pt1": [
@@ -221,14 +221,17 @@
     "sister_lakes": [
         "a004W00000kjucYQAQ"
     ],
-    "skyyield": [
-        "a004W00000kBQwkQAG"
-    ],
     "staley_wind": [
         "a004W00000kBGflQAG"
     ],
     "sterling": [
         "a00Uh00000673QkIAI"
+    ],
+    "skyyield_wind": [
+        "a004W00000kBQwVQAW"
+    ],
+    "skyyield_solar": [
+        "a004W00000kBQwkQAG"
     ],
     "stockton_lake": [
         "a004W00000kBQxlQAG"
@@ -250,21 +253,6 @@
     ],
     "woodberry": [
         "a004W00000kBQwSQAW"
-    ],
-    "boistfort_36": [
-        "a004W00000kBQwuQAG"
-    ],
-    "boisfort_test1": [
-        "a004W00000kBQwuQAG"
-    ],
-    "boist_fort_test_35": [
-        "a004W00000kBQwuQAG"
-    ],
-    "boist_fort_test_31": [
-        "a004W00000kBQwuQAG"
-    ],
-    "boist_fort_test_45": [
-        "a004W00000kBQwuQAG"
     ],
     "lrtp2_wi_s02": [
         "a00Uh00000FAFV5IAP"
@@ -309,6 +297,57 @@
         "a00Uh00000NPRkXIAX"
     ],
     "pjm_va_2025_s03_hickery": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "pinto_bess": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "juniper_solar": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "pjm_va_s_014_kings": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "winchester_solar": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "lrtp2_ia_w03": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "gipper_solar": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "routt_county_north": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "pinto_solar": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "blue_crescent_solar": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "juniper_bess": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "routt_county_central": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "juniper_bess": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "az_cottonwood": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "chief_joseph": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "routt_county_south": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "az_cottonwood": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "rocky_reach_wind": [
         "a00Uh00000NP7ihIAD"
     ],
     "arcvera_ca_la_paloma": [
