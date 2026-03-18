@@ -503,5 +503,9 @@
     "test_new_token": [
         "234567",
         "3456678"
+    ],
+    "test_new_token_1": [
+        "a00Uh00000o6mDKIAY",
+        "a00Uh00000sg5lrIAA"
     ]
 }
