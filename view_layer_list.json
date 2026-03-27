@@ -1,143 +1,420 @@
 {
- 'lrtp2_mn_s02': ['a00Uh00000CGpqrIAD'],
- 'stockton_lake': ['a004W00000kBQxlQAG'],
- 'moonstone_solar': ['a00Uh00000782lOIAQ'],
- 'blue_crescent_solar': ['a00Uh000001GrxTIAS'],
- 'pjm_il_2024_s_04_bitner': ['a00Uh00000E8asmIAB'],
- 'pjm_2024_s_01_state_line': ['a00Uh00000EEj5HIAT'],
- 'gipper_combined': ['a004W00000kBQwdQAG'],
- 'pjm_in_2024_s_04_riddles_pt2': ['a00Uh00000EEHDtIAP'],
- 'pjm_in_2024_s_03_riddles_pt1': ['a00Uh00000EEnqQIAT'],
- 'pjm_2024_s_02_old_halfway': ['a00Uh00000EEdZLIA1'],
- 'juniper_bess': ['a00Uh00000Iczo6IAB'],
- 'ursus': ['a004W00000kBQwvQAG'],
- 'stonington': ['a004W00000kjuZJQAY'],
- 'az_whitehills': ['a004W00000lEAcZQAW'],
- 'sister_lakes': ['a004W00000kjucYQAQ'],
- 'pjm_il_2024_s05_garret': ['a00Uh00000E8jklIAB'],
- 'peach_seed': ['a004W00000hCv2jQAC'],
- 'miso_mi_s27': ['a00Uh00000S9IqTIAV'],
- 'looking_glass': ['a00Uh00000781uKIAQ'],
- 'table_top': ['a00Uh000006gHvTIAU'],
- 'sand_lily': ['a004W00000kjuZIQAY'],
- 'twin_creeks': ['a00Uh000001FZbEIAW'],
- 'schiller': ['a004W00000kjucNQAQ'],
- 'staley_wind': ['a004W00000kBGflQAG'],
- 'skyyield_solar': ['a004W00000kBQwkQAG'],
- 'skyyield_wind': ['a004W00000kBQwVQAW'],
- 'va_broadnax': ['a00Uh00000BmsSoIAJ'],
- 'lrtp2_mn_s02b': ['a00Uh00000WLBXXIA5'],
- 'sterling': ['a00Uh00000673QkIAI'],
- 'pjm_il_2025_s_08_12_utility': ['a00Uh00000ZvrRgIAJ'],
- 'wonderland_wind': ['a00Uh000007qwK9IAI'],
- 'tidewater_solar': ['a00Uh00000DceD3IAJ'],
- 'arcvera_ca_la_paloma': ['a004W00000kjuYXQAY'],
- 'lrtp_in_s02': ['a004W00000kjuZyQAI'],
- 'miso_ia_s12': ['a00Uh00000FAxiyIAD'],
- 'miso_in_s28': ['a00Uh00000MX37MIAT'],
- 'chief_joseph': ['a00Uh000004WWSNIA4'],
- 'ercot_w_p2x_w9': ['a00Uh00000QsUqCIAV'],
- 'horse_heaven_east_wind': ['a004W00000kBQwPQAW'],
- 'grove_wind_test_01': ['a00Uh00000Ni6MDIAZ'],
- 'saddle_solar': ['a00Uh000002FaWfIAK'],
- 'juniper_solar': ['a00Uh00000IcKzaIAF'],
- 'lrtp2_wi_s05': ['a00Uh00000CtKYgIAN'],
- 'lrtp2_wi_s06': ['a00Uh00000CtG24IAF'],
- 'pjm_nc_2024_s_05_margarita': ['a00Uh00000D4ex7IAB'],
- 'id_clements': ['a004W00000kBAgAQAW'],
- 'grove_wind_test_03': ['a00Uh00000Ni6MDIAZ'],
- 'miso_wi_s17': ['a00Uh00000WK1WzIAL'],
- 'saddle_wind_farm': ['a00Uh000002FXdeIAG'],
- 'lrtp2_wi_s01': ['a00Uh000009nSE5IAM'],
- 'nimbus': ['a004W00000kBQwGQAW'],
- 'pjm_il_2024_s03_low_moor': ['a00Uh00000E8uUqIAJ'],
- 'lrtp2_ia_w03': ['a00Uh00000FAaeJIAT'],
- 'pjm_va_s_014_kings': ['a00Uh00000GMGBWIA5'],
- 'miso_mi_w02': ['a00Uh00000FbUuYIAV'],
- 'miso_in_s31': ['a00Uh00000UEN3VIAX'],
- 'blue_dragon_solar': ['a004W00000kjuZQQAY'],
- 'id_market_lake': ['a004W00000kjuZWQAY'],
- 'id_drummond': ['a004W00000kk6JnQAI'],
- 'pjm_il_2025_s_07_24_newark': ['a00Uh00000ZxerkIAB'],
- 'high_iron': ['a004W00000kjuauQAA'],
- 'cranberry': ['a004W00000kjuZLQAY'],
- 'dunaway': ['a004W00000kBQwQQAW'],
- 'ephrata': ['a00Uh000006ZfzJIAS'],
- 'gabrych': ['a00Uh000009YuIjIAK'],
- 'golden_hay': ['a004W00000kjuZCQAY'],
- 'horse_heaven': ['a004W00000kBQwNQAW'],
- 'pathfinder': ['a004W00000kjucEQAQ'],
- 'woodberry': ['a004W00000kBQwSQAW'],
- 'routt_county_south': ['a00Uh00000FHlxyIAD'],
- 'routt_county_central': ['a00Uh00000GNab7IAD'],
- 'routt_county_north': ['a00Uh00000GNQBzIAP'],
- 'gipper': ['a004W00000kBQx5QAG'],
- 'gipper_solar': ['a004W00000kBQwdQAG'],
- 'keyhole': ['a004W00000kBQyvQAG'],
- 'lucky_rock': ['a004W00000kBQwiQAG'],
- 'gipper__wind': ['a004W00000kBQx5QAG'],
- 'ercot_w_p2x_w11': ['a00Uh00000QsMcXIAV'],
- 'az_cottonwood': ['a00Uh00000I23M3IAJ'],
- 'pjm_il_2024_w01_grove_wind': ['a00Uh00000Ni6MDIAZ'],
- 'goldkingwind': ['a00Uh00000ShQf3IAF'],
- 'pjm_nc_2025_s_08_13_johnson': ['a00Uh00000Zw8AmIAJ'],
- 'golden_hay_solar': ['a00Uh000006MmtoIAC'],
- 'miso_in_s33': ['a00Uh00000XYMkjIAH'],
- 'ercot_w_p2x_w6': ['a00Uh00000QsterIAB'],
- 'land_agent_summit': ['a00Uh00000HSdW6IAL'],
- 'miso_ia_s15': ['a00Uh00000MNsFzIAL'],
- 'oat_valley_wind': ['a004W00000kjh3xQAA'],
- 'pjm_il_2025_s_07_21_ferrel': ['a00Uh00000ZxWFtIAN'],
- 'pjm_il_2025_s12_wagonseller': ['a00Uh00000OxtKRIAZ'],
- 'pjm_nc_2025_s_07_15_church': ['a00Uh00000XhGXxIAN'],
- 'pjm_nc_2025_s_07_15_shepherd': ['a00Uh00000XgvTZIAZ'],
- 'pjm_va_2025_s01_clancie': ['a00Uh00000NPRkXIAX'],
- 'walsenburg_west_wind': ['a00Uh00000P7PEbIAN'],
- 'pjm_2024_s_10_stonewall': ['a00Uh00000D1ksXIAR'],
- 'old_town_wind': ['a00Uh00000FLHZuIAP'],
- 'horse_heaven_west_solar': ['a004W00000kBQwNQAW'],
- 'miso_in_s29': ['a00Uh00000MX8YPIA1'],
- 'bluegrass_solar_phase2': ['a00Uh00000KJHRTIA5'],
- 'pjm_va_2025_s03_hickery': ['a00Uh00000NP7ihIAD'],
- 'pjm_mi_2025_s01_brothers': ['a00Uh00000VqSXrIAN'],
- 'pjm_il_2025_s_07_23_stoney_island': ['a00Uh00000Zx7ZDIAZ'],
- 'horse_heaven_west_wind': ['a00Uh000007ntfFIAQ'],
- 'horse_heaven_east_solar': ['a00Uh000007rMWFIA2'],
- 'walsenburg_east_wind': ['a00Uh00000P7PHpIAN'],
- 'pjm_nc_2025_s_07_16_big_oak': ['a00Uh00000XfwzaIAB'],
- 'az_w11_cataract_canyon': ['a004W00000lEAd8QAG'],
- 'pjm_nc_2025_s_06_24_muddy_cross': ['a00Uh00000Xk23rIAB'],
- 'az_srp_s01': ['a00Uh000006gIoLIAU'],
- 'az_tortilla_mtns': ['a004W00000lEAbWQAW'],
- 'great_divide': ['a004W00000kBQwKQAW'],
- 'barnstormer': ['a004W00000kjubVQAQ'],
- 'biggs_solar': ['a004W00000kjuYbQAI'],
- 'blue_crescent': ['a00Uh000001GrxTIAS'],
- 'high_point': ['a004W00000kBQwsQAG'],
- 'bluegrass_solar': ['a00Uh00000782lPIAQ'],
- 'cascade_crest': ['a004W00000kkErLQAU'],
- 'co_altis_solar_site_7': ['a00Uh00000EEjreIAD'],
- 'gipper__solar': ['a004W00000kBQwdQAG'],
- 'gonzaga': ['a004W00000kBQwIQAW'],
- 'lrtp2_mn_s01': ['a00Uh00000Ct5oIIAR'],
- 'pjm_il_2025_s07_nettle': ['a00Uh00000ObKhxIAF'],
- 'pjm_in_2025_s01_wittsstation': ['a00Uh00000OxquPIAR'],
- 'pjm_il_2025_s_07_21_mckeen': ['a00Uh00000ZxZX6IAN'],
- 'boulderflats_solar': ['a00Uh00000DEqvNIAT'],
- 'bellwether': ['a004W00000kjub2QAA'],
- 'pjm_il_2025_s_07_28_yale': ['a00Uh00000ZwaqBIAR'],
- 'p2x18': ['a004W00000kk4OGQAY'],
- 'p7b_cattle': ['a00Uh000000lfEEIAY'],
- 'pc2': ['a004W00000dIiyKQAS'],
- 'sandstone_basin': ['a004W00000kjucoQAA'],
- 'horse_heaven_combined': ['a00Uh000002FXdeIAG'],
- 'ul_andrews_co_blk_12': ['a00Uh00000REoLaIAL'],
- 'milam_county_solar': ['a00Uh00000Qh3dEIAR'],
- 'trestle': ['a004W00000kBQxAQAW'],
- 'miso_mn_w08': ['a00Uh00000Z7sp9IAB'],
- 'miso_ia_s13': ['a00Uh00000UKskZIAT'],
- 'bess_il_miso': ['a00Uh00000bFRlsIAG'],
- 'old_town': ['a00Uh00000FLHZuIAP'],
- 'ercot_w_p2x_w10': ['a00Uh00000R7OuAIAV'],
- 'desert_stardust': ['a004W00000kBQxdQAG']
+    "lrtp2_mn_s02": [
+        "a00Uh00000CGpqrIAD"
+    ],
+    "stockton_lake": [
+        "a004W00000kBQxlQAG"
+    ],
+    "moonstone_solar": [
+        "a00Uh00000782lOIAQ"
+    ],
+    "blue_crescent_solar": [
+        "a00Uh000001GrxTIAS"
+    ],
+    "pjm_il_2024_s_04_bitner": [
+        "a00Uh00000E8asmIAB"
+    ],
+    "pjm_2024_s_01_state_line": [
+        "a00Uh00000EEj5HIAT"
+    ],
+    
+    "pjm_in_2024_s_04_riddles_pt2": [
+        "a00Uh00000EEHDtIAP"
+    ],
+    "pjm_in_2024_s_03_riddles_pt1": [
+        "a00Uh00000EEnqQIAT"
+    ],
+    "pjm_2024_s_02_old_halfway": [
+        "a00Uh00000EEdZLIA1"
+    ],
+    "juniper_bess": [
+        "a00Uh00000Iczo6IAB"
+    ],
+    "ursus": [
+        "a004W00000kBQwvQAG"
+    ],
+    "stonington": [
+        "a004W00000kjuZJQAY"
+    ],
+    "az_whitehills": [
+        "a004W00000lEAcZQAW"
+    ],
+    "sister_lakes": [
+        "a004W00000kjucYQAQ"
+    ],
+    "pjm_il_2024_s05_garret": [
+        "a00Uh00000E8jklIAB"
+    ],
+    "peach_seed": [
+        "a004W00000hCv2jQAC"
+    ],
+    "miso_mi_s27": [
+        "a00Uh00000S9IqTIAV"
+    ],
+    "looking_glass": [
+        "a00Uh00000781uKIAQ"
+    ],
+    "table_top": [
+        "a00Uh000006gHvTIAU"
+    ],
+    "sand_lily": [
+        "a004W00000kjuZIQAY"
+    ],
+    "twin_creeks": [
+        "a00Uh000001FZbEIAW"
+    ],
+    "schiller": [
+        "a004W00000kjucNQAQ"
+    ],
+    "staley_wind": [
+        "a004W00000kBGflQAG"
+    ],
+    "skyyield_solar": [
+        "a004W00000kBQwkQAG"
+    ],
+    "skyyield_wind": [
+        "a004W00000kBQwVQAW"
+    ],
+    "va_broadnax": [
+        "a00Uh00000BmsSoIAJ"
+    ],
+    "lrtp2_mn_s02b": [
+        "a00Uh00000WLBXXIA5"
+    ],
+    "sterling": [
+        "a00Uh00000673QkIAI"
+    ],
+    "pjm_il_2025_s_08_12_utility": [
+        "a00Uh00000ZvrRgIAJ"
+    ],
+    "wonderland_wind": [
+        "a00Uh000007qwK9IAI"
+    ],
+    "tidewater_solar": [
+        "a00Uh00000DceD3IAJ"
+    ],
+    "arcvera_ca_la_paloma": [
+        "a004W00000kjuYXQAY"
+    ],
+    "lrtp_in_s02": [
+        "a004W00000kjuZyQAI"
+    ],
+    "miso_ia_s12": [
+        "a00Uh00000FAxiyIAD"
+    ],
+    "miso_in_s28": [
+        "a00Uh00000MX37MIAT"
+    ],
+    "chief_joseph": [
+        "a00Uh000004WWSNIA4"
+    ],
+    "ercot_w_p2x_w9": [
+        "a00Uh00000QsUqCIAV"
+    ],
+    "horse_heaven_east_wind": [
+        "a004W00000kBQwPQAW"
+    ],
+    "grove_wind_test_01": [
+        "a00Uh00000Ni6MDIAZ"
+    ],
+    "saddle_solar": [
+        "a00Uh000002FaWfIAK"
+    ],
+    "juniper_solar": [
+        "a00Uh00000IcKzaIAF"
+    ],
+    "lrtp2_wi_s05": [
+        "a00Uh00000CtKYgIAN"
+    ],
+    "lrtp2_wi_s06": [
+        "a00Uh00000CtG24IAF"
+    ],
+    "pjm_nc_2024_s_05_margarita": [
+        "a00Uh00000D4ex7IAB"
+    ],
+    "id_clements": [
+        "a004W00000kBAgAQAW"
+    ],
+    "grove_wind_test_03": [
+        "a00Uh00000Ni6MDIAZ"
+    ],
+    "miso_wi_s17": [
+        "a00Uh00000WK1WzIAL"
+    ],
+    "saddle_wind_farm": [
+        "a00Uh000002FXdeIAG"
+    ],
+    "lrtp2_wi_s01": [
+        "a00Uh000009nSE5IAM"
+    ],
+    "nimbus": [
+        "a004W00000kBQwGQAW"
+    ],
+    "pjm_il_2024_s03_low_moor": [
+        "a00Uh00000E8uUqIAJ"
+    ],
+    "lrtp2_ia_w03": [
+        "a00Uh00000FAaeJIAT"
+    ],
+    "pjm_va_s_014_kings": [
+        "a00Uh00000GMGBWIA5"
+    ],
+    "miso_mi_w02": [
+        "a00Uh00000FbUuYIAV"
+    ],
+    "miso_in_s31": [
+        "a00Uh00000UEN3VIAX"
+    ],
+    "blue_dragon_solar": [
+        "a004W00000kjuZQQAY"
+    ],
+    "id_market_lake": [
+        "a004W00000kjuZWQAY"
+    ],
+    "id_drummond": [
+        "a004W00000kk6JnQAI"
+    ],
+    "pjm_il_2025_s_07_24_newark": [
+        "a00Uh00000ZxerkIAB"
+    ],
+    "high_iron": [
+        "a004W00000kjuauQAA"
+    ],
+    "cranberry": [
+        "a004W00000kjuZLQAY"
+    ],
+    "dunaway": [
+        "a004W00000kBQwQQAW"
+    ],
+    "ephrata": [
+        "a00Uh000006ZfzJIAS"
+    ],
+    "gabrych": [
+        "a00Uh000009YuIjIAK"
+    ],
+    "golden_hay": [
+        "a004W00000kjuZCQAY"
+    ],
+    "horse_heaven": [
+        "a004W00000kBQwNQAW"
+    ],
+    "pathfinder": [
+        "a004W00000kjucEQAQ"
+    ],
+    "woodberry": [
+        "a004W00000kBQwSQAW"
+    ],
+    "routt_county_south": [
+        "a00Uh00000FHlxyIAD"
+    ],
+    "routt_county_central": [
+        "a00Uh00000GNab7IAD"
+    ],
+    "routt_county_north": [
+        "a00Uh00000GNQBzIAP"
+    ],
+    "gipper": [
+        "a004W00000kBQx5QAG"
+    ],
+    "gipper_solar": [
+        "a004W00000kBQwdQAG"
+    ],
+    "keyhole": [
+        "a004W00000kBQyvQAG"
+    ],
+    "lucky_rock": [
+        "a004W00000kBQwiQAG"
+    ],
+    "gipper__wind": [
+        "a004W00000kBQx5QAG"
+    ],
+    "ercot_w_p2x_w11": [
+        "a00Uh00000QsMcXIAV"
+    ],
+    "az_cottonwood": [
+        "a00Uh00000I23M3IAJ"
+    ],
+    "pjm_il_2024_w01_grove_wind": [
+        "a00Uh00000Ni6MDIAZ"
+    ],
+    "goldkingwind": [
+        "a00Uh00000ShQf3IAF"
+    ],
+    "pjm_nc_2025_s_08_13_johnson": [
+        "a00Uh00000Zw8AmIAJ"
+    ],
+    "golden_hay_solar": [
+        "a00Uh000006MmtoIAC"
+    ],
+    "miso_in_s33": [
+        "a00Uh00000XYMkjIAH"
+    ],
+    "ercot_w_p2x_w6": [
+        "a00Uh00000QsterIAB"
+    ],
+    "land_agent_summit": [
+        "a00Uh00000HSdW6IAL"
+    ],
+    "miso_ia_s15": [
+        "a00Uh00000MNsFzIAL"
+    ],
+    "oat_valley_wind": [
+        "a004W00000kjh3xQAA"
+    ],
+    "pjm_il_2025_s_07_21_ferrel": [
+        "a00Uh00000ZxWFtIAN"
+    ],
+    "pjm_il_2025_s12_wagonseller": [
+        "a00Uh00000OxtKRIAZ"
+    ],
+    "pjm_nc_2025_s_07_15_church": [
+        "a00Uh00000XhGXxIAN"
+    ],
+    "pjm_nc_2025_s_07_15_shepherd": [
+        "a00Uh00000XgvTZIAZ"
+    ],
+    "pjm_va_2025_s01_clancie": [
+        "a00Uh00000NPRkXIAX"
+    ],
+    "walsenburg_west_wind": [
+        "a00Uh00000P7PEbIAN"
+    ],
+    "pjm_2024_s_10_stonewall": [
+        "a00Uh00000D1ksXIAR"
+    ],
+    "old_town_wind": [
+        "a00Uh00000FLHZuIAP"
+    ],
+    "horse_heaven_west_solar": [
+        "a004W00000kBQwNQAW"
+    ],
+    "miso_in_s29": [
+        "a00Uh00000MX8YPIA1"
+    ],
+    "bluegrass_solar_phase2": [
+        "a00Uh00000KJHRTIA5"
+    ],
+    "pjm_va_2025_s03_hickery": [
+        "a00Uh00000NP7ihIAD"
+    ],
+    "pjm_mi_2025_s01_brothers": [
+        "a00Uh00000VqSXrIAN"
+    ],
+    "pjm_il_2025_s_07_23_stoney_island": [
+        "a00Uh00000Zx7ZDIAZ"
+    ],
+    "horse_heaven_west_wind": [
+        "a00Uh000007ntfFIAQ"
+    ],
+    "horse_heaven_east_solar": [
+        "a00Uh000007rMWFIA2"
+    ],
+    "walsenburg_east_wind": [
+        "a00Uh00000P7PHpIAN"
+    ],
+    "pjm_nc_2025_s_07_16_big_oak": [
+        "a00Uh00000XfwzaIAB"
+    ],
+    "az_w11_cataract_canyon": [
+        "a004W00000lEAd8QAG"
+    ],
+    "pjm_nc_2025_s_06_24_muddy_cross": [
+        "a00Uh00000Xk23rIAB"
+    ],
+    "az_srp_s01": [
+        "a00Uh000006gIoLIAU"
+    ],
+    "az_tortilla_mtns": [
+        "a004W00000lEAbWQAW"
+    ],
+    "great_divide": [
+        "a004W00000kBQwKQAW"
+    ],
+    "barnstormer": [
+        "a004W00000kjubVQAQ"
+    ],
+    "biggs_solar": [
+        "a004W00000kjuYbQAI"
+    ],
+    "blue_crescent": [
+        "a00Uh000001GrxTIAS"
+    ],
+    "high_point": [
+        "a004W00000kBQwsQAG"
+    ],
+    "bluegrass_solar": [
+        "a00Uh00000782lPIAQ"
+    ],
+    "cascade_crest": [
+        "a004W00000kkErLQAU"
+    ],
+    "co_altis_solar_site_7": [
+        "a00Uh00000EEjreIAD"
+    ],
+    "gipper__solar": [
+        "a004W00000kBQwdQAG"
+    ],
+    "gonzaga": [
+        "a004W00000kBQwIQAW"
+    ],
+    "lrtp2_mn_s01": [
+        "a00Uh00000Ct5oIIAR"
+    ],
+    "pjm_il_2025_s07_nettle": [
+        "a00Uh00000ObKhxIAF"
+    ],
+    "pjm_in_2025_s01_wittsstation": [
+        "a00Uh00000OxquPIAR"
+    ],
+    "pjm_il_2025_s_07_21_mckeen": [
+        "a00Uh00000ZxZX6IAN"
+    ],
+    "boulderflats_solar": [
+        "a00Uh00000DEqvNIAT"
+    ],
+    "bellwether": [
+        "a004W00000kjub2QAA"
+    ],
+    "pjm_il_2025_s_07_28_yale": [
+        "a00Uh00000ZwaqBIAR"
+    ],
+    "p2x18": [
+        "a004W00000kk4OGQAY"
+    ],
+    "p7b_cattle": [
+        "a00Uh000000lfEEIAY"
+    ],
+    "pc2": [
+        "a004W00000dIiyKQAS"
+    ],
+    "sandstone_basin": [
+        "a004W00000kjucoQAA"
+    ],
+    "ul_andrews_co_blk_12": [
+        "a00Uh00000REoLaIAL"
+    ],
+    "milam_county_solar": [
+        "a00Uh00000Qh3dEIAR"
+    ],
+    "trestle": [
+        "a004W00000kBQxAQAW"
+    ],
+    "miso_mn_w08": [
+        "a00Uh00000Z7sp9IAB"
+    ],
+    "miso_ia_s13": [
+        "a00Uh00000UKskZIAT"
+    ],
+    "bess_il_miso": [
+        "a00Uh00000bFRlsIAG"
+    ],
+    "old_town": [
+        "a00Uh00000FLHZuIAP"
+    ],
+    "ercot_w_p2x_w10": [
+        "a00Uh00000R7OuAIAV"
+    ],
+    "desert_stardust": [
+        "a004W00000kBQxdQAG"
+    ]
 }
