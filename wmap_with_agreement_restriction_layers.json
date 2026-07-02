@@ -8,19 +8,5 @@
             "operational_layer_id": "ab037bcac77d",
             "viewlayer_id": "48a38efa5c9041a9a45c387743ccc18e"
         }
-    ],
-    "42b07d7008c94aa0b5d93ff7971d0710": [
-        {
-            "operational_layer_id": "40c5041d516b",
-            "viewlayer_id": "7e3d4067c08a48509781d63bd606b05e"
-        },
-        {
-            "operational_layer_id": "a6d3571bf8f3",
-            "viewlayer_id": "6364292061df4b12b06cabf448b1a42e"
-        },
-        {
-            "operational_layer_id": "b4e62780725e",
-            "viewlayer_id": "e9fd8149f6584f86b3f98830e1acae44"
-        }
     ]
 }
