@@ -23,14 +23,4 @@
             "viewlayer_id": "e9fd8149f6584f86b3f98830e1acae44"
         }
     ],
-    "42b07d7008c94aa0b5d93ff7971d0710": [
-        {
-            "operational_layer_id": "360a48468b5f",
-            "viewlayer_id": "7e3d4067c08a48509781d63bd606b05e"
-        },
-        {
-            "operational_layer_id": "b1bdef05e9de",
-            "viewlayer_id": "6364292061df4b12b06cabf448b1a42e"
-        }
-    ]
 }
