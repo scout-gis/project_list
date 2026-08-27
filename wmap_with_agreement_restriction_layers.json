@@ -12,5 +12,11 @@
             "operational_layer_id": "d7871616c3d6",
             "viewlayer_id": "1ceda2219ef0438f9eb57dd67749736d"
         }
+    ],
+    "9c6c2e7538e6400d962d467de7106a3f": [
+        {
+            "operational_layer_id": "01e4a2febc46",
+            "viewlayer_id": "1ceda2219ef0438f9eb57dd67749736d"
+        }
     ]
 }
