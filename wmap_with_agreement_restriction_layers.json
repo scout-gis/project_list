@@ -40,5 +40,11 @@
             "operational_layer_id": "79acc0460cfc",
             "viewlayer_id": "1dc30c71977740aaa8cc46a02925dc4f"
         }
+    ],
+    "06081b2707de468da6984fcc8237c8c7": [
+        {
+            "operational_layer_id": "b77c507a8d08",
+            "viewlayer_id": "91b1757a045248f0bd8d6eaad952fb33"
+        }
     ]
 }
